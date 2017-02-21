@@ -22,7 +22,15 @@
                     </ingredients>
                     <steps>
                         <step>
-                            <action>Log in to your Hokie SPA account using your PID and password</action>
+                            <action>Log in to your Hokie SPA account using your PID and password.</action>
+                            <note>Additional information?</note>
+                        </step>
+                        <step>
+                            <action>Select "Registration and Schedule" from the Hokie SPA main menu.</action>
+                            <note>Additional information?</note>
+                        </step>
+                        <step>
+                            <action>Click "Prepare for Registration" link.</action>
                             <note>Additional information?</note>
                         </step>
                     </steps>
