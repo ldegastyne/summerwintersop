@@ -125,43 +125,55 @@
                     </steps>
                     <summary>These are the steps to take to drop a class from Winter Session.</summary>
                 </task> 
-                <!--Below is Task 6-->
+                <!--Below is Task 6a-->
                 <task>
-                    <tasktitle>How to pay for class(es)</tasktitle>
-                    <staging>Staging</staging>
+                    <tasktitle>How to pay for class(es) (Virginia Tech students)</tasktitle>
+                    <staging>Virginia Tech students should follow these instructions to pay for classes.</staging>
                     <ingredients>
                         <ingredient><item>Computer with Internet connection</item></ingredient>
                         <ingredient><item>Hokie SPA Login information</item></ingredient>
+                        <ingredient><item>Credit Card or Bank Account information, or another form of payment</item></ingredient>
                     </ingredients>
                     <steps>
-                        <step><action>1</action></step>
-                        <step><action>2</action></step>
-                        <step><action>3</action></step>
-                        <step><action>4</action></step>
-                        <step><action>5</action></step>
-                        <step><action>6</action></step>
-                        <step><action>7</action></step>
+                        <step><action>Log in to your Hokie SPA account using your PID and password.</action></step>
+                        <step><action>Click on the far-right tab in the navigation panel that says "Hokie Spa."</action></step>
+                        <step><action>Click on "University Account Information."</action></step>
+                        <step><action>Click "View and Pay e-Bill."</action></step>
+                        <step><action>Locate "Make Payment" on the menu on the left side of the screen and click on it.</action></step>
+                        <step><action>Type in a payment amount and choose a payment method from the drop-down menu.</action></step>
+                        <step><action>Click "Continue."</action></step>
                     </steps>
-                    <summary>Summary</summary>
+                    <summary>These are the steps for Virginia Tech students to pay for classes.</summary>
                 </task>
+                <!--Below is Task 6b-->
+                <task>
+                    <tasktitle>How to pay for class(es) (International Students)</tasktitle>
+                    <staging>International students should follow these instructions to pay for classes.</staging>
+                    <ingredients>
+                        <ingredient><item>Computer with Internet connection</item></ingredient>
+                        <ingredient><item>Hokie SPA Login information</item></ingredient>
+                        <ingredient><item>Credit Card or Bank Account information, or another form of payment</item></ingredient>
+                    </ingredients>
+                    <steps>
+                        <step><action>Visit the Virginia Tech Bursar's website at www.bursar.vt.edu.</action></step>
+                        <step><action>Locate the "Payment Options for International Students" option.</action></step>
+                        <step><action>Click on "More" and follow the instructions on the screen.</action></step>
+                    </steps>
+                    <summary>These are the steps for International students to pay for classes.</summary>
+                </task> 
                 <!--Below is Task 7-->
                 <task>
                     <tasktitle>How to apply for financial aid</tasktitle>
-                    <staging>Staging</staging>
+                    <staging>All students should follow these instructions to apply for financial aid.</staging>
                     <ingredients>
                         <ingredient><item>Computer with Internet connection</item></ingredient>
-                        <ingredient><item>Hokie SPA Login information</item></ingredient>
                     </ingredients>
                     <steps>
-                        <step><action>1</action></step>
-                        <step><action>2</action></step>
-                        <step><action>3</action></step>
-                        <step><action>4</action></step>
-                        <step><action>5</action></step>
-                        <step><action>6</action></step>
-                        <step><action>7</action></step>
+                        <step><action>Visit the FAFSA website at https://fafsa.ed.gov</action></step>
+                        <step><action>Click "Start A New FAFSA" if you haven't filled one out before. Follow the instructions to fill out the forms.</action></step>
+                        <step><action>Click "Login" if you have filled out a FAFSA before. Fill out the forms to apply for the Summer or Winter term.</action></step>
                     </steps>
-                    <summary>Summary</summary>
+                    <summary>These are the steps for all students to apply for financial aid.</summary>
                 </task>
                 <!--Below is Task 8-->
                 <task>
