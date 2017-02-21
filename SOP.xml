@@ -178,23 +178,19 @@
                 <!--Below is Task 8-->
                 <task>
                     <tasktitle>How to withdraw from Winter Session</tasktitle>
-                    <staging>Staging</staging>
+                    <staging>All students who need to withdraw from Winter Session at Virginia Tech completely should follow these instructions using the online resignation form. </staging>
                     <ingredients>
                         <ingredient><item>Computer with Internet connection</item></ingredient>
-                        <ingredient><item>Hokie SPA Login information</item></ingredient>
                     </ingredients>
                     <steps>
-                        <step><action>1</action></step>
-                        <step><action>2</action></step>
-                        <step><action>3</action></step>
-                        <step><action>4</action></step>
-                        <step><action>5</action></step>
-                        <step><action>6</action></step>
-                        <step><action>7</action></step>
+                        <step><action>Visit the Virginia Tech registrar's website at www.registrar.vt.edu</action></step>
+                        <step><action>Click on the middle tab labeled "Undergraduate Students" halfway down the page.</action></step>
+                        <step><action>Click on the "Forms" link.</action></step>
+                        <step><action>Click on the "Student Withdrawal/Resignation Form" link to access the PDF.</action></step>
+                        <step><action>Fill out the form and submit it to the Office of the University Registrar located in the Student Services Building at 800 Washington St., SW, Blacksburg, VA 24061.</action></step>
                     </steps>
-                    <summary>Summary</summary>
+                    <summary>These are the steps to withdraw from Winter Session at Virginia Tech completely.</summary>
                 </task>      
-                
                 
             </tasks>
         </session>
