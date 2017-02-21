@@ -31,12 +31,6 @@
                     </steps>
                     <summary>That is how Virginia Tech students should prepare to register for classes.</summary>
                 </task>
- 
-                
-                <!--task below was copied and pasted-->
-                
- 
-                
                 <task>
                     <tasktitle>How to prepare for registration (non-Virginia Tech students)</tasktitle>
                     <staging>These are the steps non-Virginia Tech students should take to prepare for registering for classes.</staging>
@@ -46,13 +40,14 @@
                         </ingredient>
                     </ingredients>
                     <steps>
-                        <step><action>1</action></step>
-                        <step><action>2</action></step>
-                        <step><action>3</action></step>
-                        <step><action>4</action></step>
-                        <step><action>5</action></step>
-                        <step><action>6</action></step>
-                        <step><action>7</action></step>
+                        <step><action>Apply as a Non-Degree Seeking student at www.admissions.vt.edu/apply/apply-now.html</action></step>
+                        <step><action>Follow the link to establish your account.</action></step>
+                        <step><action>Follow the link to fill out an application as a Non-Degree seeking applicant.</action></step>
+                        <step><action>Make corrections to the data.</action></step>
+                        <step><action>Save and send your application.</action></step>
+                        <step><action>Follow the instructions to pay the application fee online.</action></step>
+                        <step><action>Check your email for a message from "admissions@vt.edu" with the subject "Virginia Tech Application Status Page."</action></step>
+                        <step><action>Schedule a meeting with your academic advisor at your current institution.</action><note>Obtain permission to receive authorization to enroll in courses at Virginia Tech and transfer the credit to your home institution.</note></step>
                     </steps>
                     <summary>Summary</summary>
                 </task>
