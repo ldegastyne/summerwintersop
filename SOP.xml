@@ -72,11 +72,28 @@
                         <step><action>Click "FIND class sections."</action></step>
                         <step><action>Locate the CRN number for the course.</action><note>It will be all the way on the left-hand side of the course listing. This is what you will use to add the class.</note></step>
                     </steps>
-                    <summary>That is how all students find the CRN for the class(es) they need to take..</summary>
+                    <summary>That is how all students find the CRN for the class(es) they need to take.</summary>
                 </task>
                 
-                
-                
+                <task>
+                    <tasktitle>How to register for a class</tasktitle>
+                    <staging>This is how all students register for a class at Virginia Tech.</staging>
+                    <ingredients>
+                        <ingredient><item>Computer with Internet connection</item></ingredient>
+                        <ingredient><item>Hokie SPA Login information</item></ingredient>
+                        <ingredient><item>CRN of the class</item></ingredient>
+                    </ingredients>
+                    <steps>
+                        <step><action>Log in to your Hokie SPA account using your PID and password.</action></step>
+                        <step><action>Select "Registration and Schedule" from the Hokie SPA main menu.</action></step>
+                        <step><action>Click the "Register for Classes" link.</action></step>
+                        <step><action>Select the term you wish to register and click "Continue."</action></step>
+                        <step><action>Click "Ok" on the financial and registration notice that appears.</action></step>
+                        <step><action>Click on the second tab labeled "Enter CRNs" and put in the CRN for the class.</action></step>
+                        <step><action>Find the course and section you want to take and click the "Add" button to register.</action></step>
+                    </steps>
+                    <summary>These are the steps that all students should take to register for a class.</summary>
+                </task>
                 
                 
                 
