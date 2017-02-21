@@ -21,29 +21,15 @@
                         </ingredient>
                     </ingredients>
                     <steps>
-                        <step>
-                            <action>Log in to your Hokie SPA account using your PID and password.</action>
-                        </step>
-                        <step>
-                            <action>Select "Registration and Schedule" from the Hokie SPA main menu.</action>
-                        </step>
-                        <step>
-                            <action>Click "Prepare for Registration" link.</action>
-                        </step>
-                        <step>
-                            <action>Select the open term in which you are attempting to register.</action>
-                        </step>
-                        <step>
-                            <action>Click "Continue."</action>
-                        </step>
-                        <step>
-                            <action>Complete each of the pre-registration requirements that appear on the screen.</action>
-                        </step>
-                        <step>
-                            <action>Select the "Registration" tab in the navigation panel.</action>
-                        </step>
+                        <step><action>Log in to your Hokie SPA account using your PID and password.</action></step>
+                        <step><action>Select "Registration and Schedule" from the Hokie SPA main menu.</action></step>
+                        <step><action>Click "Prepare for Registration" link.</action></step>
+                        <step><action>Select the open term in which you are attempting to register.</action></step>
+                        <step><action>Click "Continue."</action></step>
+                        <step><action>Complete each of the pre-registration requirements that appear on the screen.</action></step>
+                        <step><action>Select the "Registration" tab in the navigation panel.</action></step>
                     </steps>
-                    <summary></summary>
+                    <summary>That is how Virginia Tech students should prepare to register for classes.</summary>
                 </task>
                 
             </tasks>
