@@ -31,6 +31,7 @@
                     </steps>
                     <summary>That is how Virginia Tech students should prepare to register for classes.</summary>
                 </task>
+                
                 <task>
                     <tasktitle>How to prepare for registration (non-Virginia Tech students)</tasktitle>
                     <staging>These are the steps non-Virginia Tech students should take to prepare for registering for classes.</staging>
@@ -51,9 +52,28 @@
                     </steps>
                     <summary>If you are not a Virginia Tech student, this is how you should prepare to register for classes.</summary>
                 </task>
-                
-                
-                
+
+                <task>
+                    <tasktitle>How to find the CRN of the class(es) you need</tasktitle>
+                    <staging>These are the steps for all students to find the CRN (course request number) of the class they need to take. You will need to use the CRN later in the process of registering. </staging>
+                    <ingredients>
+                        <ingredient><item>Computer with Internet connection</item></ingredient>
+                        <ingredient><item>Hokie SPA Login information</item></ingredient>
+                        <ingredient><item>Course number of the class (Ex: ENGL 3814)</item></ingredient>
+                    </ingredients>
+                    <steps>
+                        <step><action>Log in to your Hokie SPA account using your PID and password.</action></step>
+                        <step><action>Click on the far-left tab in the navigation panel that says "Hokie Plus."</action></step>
+                        <step><action>Click on "Timetable of Classes."</action></step>
+                        <step><action>Locate the "Campus" field.</action><note>Select "Blacksburg" to see if the class you need is offered on campus. Select "Virtual" to see if the class you need is offered online.</note></step>
+                        <step><action>Locate the "Term" field and select Summer I 2017 or Summer II 2017, depending on the term in which you need to take the class.</action></step>
+                        <step><action>Locate the "Subject" field and select the department name for the class you are taking.</action></step>
+                        <step><action>Locate the "Course Number" field and type in the four-digit number of the class.</action></step>
+                        <step><action>Click "FIND class sections."</action></step>
+                        <step><action>Locate the CRN number for the course.</action><note>It will be all the way on the left-hand side of the course listing. This is what you will use to add the class.</note></step>
+                    </steps>
+                    <summary>That is how all students find the CRN for the class(es) they need to take..</summary>
+                </task>
                 
                 
                 
