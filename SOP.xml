@@ -106,6 +106,91 @@
             <sessiontitle>Winter Session</sessiontitle>
             <welcome>Winter Session at Virginia Tech offers a variety of classes in different departments that are just like fall and spring, except condensed into a three-week period over winter break. You can take up to 6 credits during Winter Session.</welcome>
             <tasks>
+                <!--Below is Task 5-->
+                <task>
+                    <tasktitle>How to drop a class</tasktitle>
+                    <staging>You might need to drop a class after you have begun taking it. These are the instructions for how to officially drop a class in the system.</staging>
+                    <ingredients>
+                        <ingredient><item>Computer with Internet connection</item></ingredient>
+                        <ingredient><item>Hokie SPA Login information</item></ingredient>
+                    </ingredients>
+                    <steps>
+                        <step><action>1</action></step>
+                        <step><action>2</action></step>
+                        <step><action>3</action></step>
+                        <step><action>4</action></step>
+                        <step><action>5</action></step>
+                        <step><action>6</action></step>
+                        <step><action>7</action></step>
+                    </steps>
+                    <summary>Summary</summary>
+                </task> 
+                <!--Below is Task 6-->
+                <task>
+                    <tasktitle>How to pay for class(es)</tasktitle>
+                    <staging>Staging</staging>
+                    <ingredients>
+                        <ingredient><item>Computer with Internet connection</item></ingredient>
+                        <ingredient><item>Hokie SPA Login information</item></ingredient>
+                    </ingredients>
+                    <steps>
+                        <step><action>1</action></step>
+                        <step><action>2</action></step>
+                        <step><action>3</action></step>
+                        <step><action>4</action></step>
+                        <step><action>5</action></step>
+                        <step><action>6</action></step>
+                        <step><action>7</action></step>
+                    </steps>
+                    <summary>Summary</summary>
+                </task>
+                <!--Below is Task 7-->
+                <task>
+                    <tasktitle>How to apply for financial aid</tasktitle>
+                    <staging>Staging</staging>
+                    <ingredients>
+                        <ingredient><item>Computer with Internet connection</item></ingredient>
+                        <ingredient><item>Hokie SPA Login information</item></ingredient>
+                    </ingredients>
+                    <steps>
+                        <step><action>1</action></step>
+                        <step><action>2</action></step>
+                        <step><action>3</action></step>
+                        <step><action>4</action></step>
+                        <step><action>5</action></step>
+                        <step><action>6</action></step>
+                        <step><action>7</action></step>
+                    </steps>
+                    <summary>Summary</summary>
+                </task>
+                <!--Below is Task 8-->
+                <task>
+                    <tasktitle>How to withdraw from Winter Session</tasktitle>
+                    <staging>Staging</staging>
+                    <ingredients>
+                        <ingredient><item>Computer with Internet connection</item></ingredient>
+                        <ingredient><item>Hokie SPA Login information</item></ingredient>
+                    </ingredients>
+                    <steps>
+                        <step><action>1</action></step>
+                        <step><action>2</action></step>
+                        <step><action>3</action></step>
+                        <step><action>4</action></step>
+                        <step><action>5</action></step>
+                        <step><action>6</action></step>
+                        <step><action>7</action></step>
+                    </steps>
+                    <summary>Summary</summary>
+                </task>      
+                
+                
+                
+                
+                
+                
+                
+                
+                
                 
                 
             </tasks>
