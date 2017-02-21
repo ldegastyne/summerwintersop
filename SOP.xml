@@ -11,7 +11,7 @@
             <tasks>
                 <task>
                     <tasktitle>How to prepare for registration (Virginia Tech students)</tasktitle>
-                    <staging>These are the steps for Virginia Tech students to take to prepare for registering for classes.</staging>
+                    <staging>These are the steps Virginia Tech students should take to prepare for registering for classes.</staging>
                     <ingredients>
                         <ingredient>
                             <item>Computer with Internet connection</item>
@@ -23,31 +23,24 @@
                     <steps>
                         <step>
                             <action>Log in to your Hokie SPA account using your PID and password.</action>
-                            <note>Additional information?</note>
                         </step>
                         <step>
                             <action>Select "Registration and Schedule" from the Hokie SPA main menu.</action>
-                            <note>Additional information?</note>
                         </step>
                         <step>
                             <action>Click "Prepare for Registration" link.</action>
-                            <note>Additional information?</note>
                         </step>
                         <step>
                             <action>Select the open term in which you are attempting to register.</action>
-                            <note>Additional information?</note>
                         </step>
                         <step>
                             <action>Click "Continue."</action>
-                            <note>Additional information?</note>
                         </step>
                         <step>
                             <action>Complete each of the pre-registration requirements that appear on the screen.</action>
-                            <note>Additional information?</note>
                         </step>
                         <step>
                             <action>Select the "Registration" tab in the navigation panel.</action>
-                            <note>Additional information?</note>
                         </step>
                     </steps>
                     <summary></summary>
