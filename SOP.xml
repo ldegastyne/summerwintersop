@@ -33,6 +33,22 @@
                             <action>Click "Prepare for Registration" link.</action>
                             <note>Additional information?</note>
                         </step>
+                        <step>
+                            <action>Select the open term in which you are attempting to register.</action>
+                            <note>Additional information?</note>
+                        </step>
+                        <step>
+                            <action>Click "Continue."</action>
+                            <note>Additional information?</note>
+                        </step>
+                        <step>
+                            <action>Complete each of the pre-registration requirements that appear on the screen.</action>
+                            <note>Additional information?</note>
+                        </step>
+                        <step>
+                            <action>Select the "Registration" tab in the navigation panel.</action>
+                            <note>Additional information?</note>
+                        </step>
                     </steps>
                     <summary></summary>
                 </task>
