@@ -115,15 +115,15 @@
                         <ingredient><item>Hokie SPA Login information</item></ingredient>
                     </ingredients>
                     <steps>
-                        <step><action>1</action></step>
-                        <step><action>2</action></step>
-                        <step><action>3</action></step>
-                        <step><action>4</action></step>
-                        <step><action>5</action></step>
-                        <step><action>6</action></step>
-                        <step><action>7</action></step>
+                        <step><action>Log in to your Hokie SPA account using your PID and password.</action></step>
+                        <step><action>Select "Registration and Schedule" form the Hokie SPA main menu.</action></step>
+                        <step><action>Click "[Drop/Add] Register for Classes."</action></step>
+                        <step><action>Select the term that the class is in and click "Continue."</action></step>
+                        <step><action>Click the Action drop-down menu on the class you want to drop.</action></step>
+                        <step><action>Select "Drop Web" on the menu.</action></step>
+                        <step><action>Click "Submit" on the bottom of the screen.</action></step>
                     </steps>
-                    <summary>Summary</summary>
+                    <summary>These are the steps to take to drop a class from Winter Session.</summary>
                 </task> 
                 <!--Below is Task 6-->
                 <task>
@@ -182,15 +182,6 @@
                     </steps>
                     <summary>Summary</summary>
                 </task>      
-                
-                
-                
-                
-                
-                
-                
-                
-                
                 
                 
             </tasks>
